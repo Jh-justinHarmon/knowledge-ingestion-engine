@@ -1,0 +1,14 @@
+{
+  "artifact_id": "art_001_v2",
+  "type": "transcript",
+  "content": {
+    "text": "Updated content"
+  },
+  "derived_from": [],
+  "referenced_context": [],
+  "confidence": 0.98,
+  "stage_metadata": {},
+  "status": "draft",
+  "version": 2,
+  "created_at": "2026-02-20T19:01:42.790603Z"
+}

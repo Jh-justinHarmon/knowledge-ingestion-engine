@@ -1,0 +1,40 @@
+{
+  "artifact_id": "contextualized_20260220_demo_v1",
+  "type": "contextualized_extraction",
+  "content": {
+    "summary": "We will implement the new feature for the meeting next week. I agree with that project timeline.",
+    "tasks": [
+      "Speaker 1: We will implement the new feature for the meeting next week.",
+      "Speaker 1: The conversation about action items is clear.",
+      "Speaker 3: Everyone will review the documentation by Friday.",
+      "Speaker 1: That's a good todo for the team."
+    ],
+    "decisions": [
+      "Speaker 2: I agree with that project timeline.",
+      "Speaker 2: We decided to move forward with the proposal."
+    ]
+  },
+  "derived_from": [
+    "extraction_20260220_demo_v1"
+  ],
+  "referenced_context": [
+    "transcript_002",
+    "project_001",
+    "transcript_001"
+  ],
+  "confidence": 0.9099999999999999,
+  "stage_metadata": {
+    "model": "deterministic_context_injection",
+    "tokens": 0,
+    "cost_usd": 0.0,
+    "latency_ms": 0,
+    "retrieval_ids": [
+      "transcript_002",
+      "project_001",
+      "transcript_001"
+    ]
+  },
+  "status": "draft",
+  "version": 1,
+  "created_at": "2026-02-20T19:55:10.702147Z"
+}

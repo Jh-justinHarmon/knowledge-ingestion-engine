@@ -1,0 +1,2 @@
+# Knowledge Ingestion Engine Dependencies
+# No third-party dependencies yet

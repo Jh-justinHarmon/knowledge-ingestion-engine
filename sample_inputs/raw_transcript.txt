@@ -1,0 +1,9 @@
+Sample raw transcript content.
+
+This is a placeholder for raw input data that will be processed
+through the knowledge ingestion pipeline.
+
+Speaker 1: This is sample dialogue.
+Speaker 2: This is a response.
+
+[End of transcript]
